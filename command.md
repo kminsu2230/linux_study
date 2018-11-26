@@ -61,5 +61,5 @@
 
 #### tar 파일 압축 및 
 
-    'tar -cvf' : tar cvf [파일명(.tar, _tar)] 압축할 파일(또는 디렉토리) / 묶을때
-    'tar -xvf' : tar cvf [파일명(.tar, _tar)] / 풀기
+    'tar -cvf 파일명.tar 압축할 파일(또는 디렉토리)' / 묶을때
+    'tar -xvf 파일명.tar' / 풀기
